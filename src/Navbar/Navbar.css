@@ -1,0 +1,17 @@
+.nav{
+   
+    height: 45px;
+   padding: 5px;
+}
+a{
+    font-size: 22px;
+    text-decoration: none;
+    margin-right: 25px;
+    display: grid;
+   color: black;
+   font-weight: bold;
+}
+.icon-image{
+    height: 40px;
+    margin-right: 880px;
+}

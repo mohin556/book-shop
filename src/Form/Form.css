@@ -1,0 +1,22 @@
+.form-container{
+    border: 1px solid red;
+    width: 25%;
+    height: 350px;
+    padding: 25px;
+   margin-left: 530px;
+   margin-top: 160px;
+}
+.input{
+    margin-top: 5px;
+    width: 270px;
+    height: 32px;
+    font-size: 16px;
+}
+.formDiv{
+    border: 1px solid black;
+    padding: 5px;
+    background-color: aliceblue;
+    height: 300px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px 5px gray;
+}

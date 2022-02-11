@@ -3,7 +3,7 @@ import './BookDetails.css'
 import { Link } from 'react-router-dom';
 
 const BookDetails = ({pd}) => {
-    console.log(pd)
+    // console.log(pd)
     const {imageUrl,book,writer,price,_id} = pd;
    
     return (

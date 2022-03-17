@@ -18,7 +18,7 @@
   /* Control the right side */
   .right {
     right: 0;
-    background-color: red;
+    background-color: #FFFFFF;
   }
   
   /* If you want the content centered horizontally and vertically */
@@ -37,4 +37,26 @@
     width: 200px;
     margin-bottom: 10px;
     border: 1px solid blueviolet;
+  }
+  .table-div{
+    width: 95%;
+  }
+  .t-head{
+    border-bottom: 0;
+    outline: 0;
+    background-color: aqua;
+  }
+  .table{
+    width: 570px;
+    height: 250px;
+    padding: 5px;
+    border-radius: 15px;
+  }
+  .t-body{
+  
+   
+    
+  }
+  .table-last{
+ 
   }

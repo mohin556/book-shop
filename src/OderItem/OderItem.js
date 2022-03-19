@@ -34,7 +34,7 @@ const checkout=()=>{
     body: JSON.stringify(newSelect)
   })
   .then(res => {
-                 alert('server side response', )
+                //  alert('server side response', )
                  console.log(res)
                                })
 
@@ -54,12 +54,7 @@ const checkout=()=>{
     
     return (
         <div>
-            {/* <h2> Id : {id}</h2>
-            <h2> name : {book.book} </h2>
-            <h2> name : {book.writer} </h2>
-            <h2> name : {book.writer} </h2>
-            <h2> name : {book.price} </h2>
-            <img className="image" src={book.imageUrl} alt="" /> */}
+     
             <div class="split left">
   <div class="centered">
   <img  src={book.imageUrl} alt="" />

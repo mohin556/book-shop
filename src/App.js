@@ -22,6 +22,7 @@ function App() {
        <Form></Form>
      </Route> */}
      <Route path="/form" element={<Form />} />
+     <Route path="/lists" element={<OderList />} />
      <Route path="/yes/:id" element={<OderItem />} />
      <Route path="/odered/:id" element={<OderList />} />
     </Routes>

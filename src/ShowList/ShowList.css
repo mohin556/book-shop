@@ -1,0 +1,15 @@
+.list-item{
+  
+   border: 2px solid red;
+    background-color: beige;
+    padding: 5px;
+    width: 100vw;
+    margin-top: 2px;
+}
+.image-list{
+   
+    height: 75px;
+    width: 70px;
+    border: 1px solid gray;
+    border-radius: 5px;
+}

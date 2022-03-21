@@ -8,6 +8,8 @@ import Home from './Home/Home';
 import Searchbar from './Searchbar/Searchbar';
 import OderItem from './OderItem/OderItem';
 import OderList from './OderList/OderList';
+import Admin from './Admin/Admin';
+import Delete from './Delete/Delete';
 
 function App() {
   return (
@@ -21,8 +23,10 @@ function App() {
      {/* <Route path="/form">
        <Form></Form>
      </Route> */}
-     <Route path="/form" element={<Form />} />
+     <Route path="/add" element={<Form />} />
+     <Route path="/admin" element={<Admin/>} />
      <Route path="/lists" element={<OderList />} />
+     <Route path="/delete" element={<Delete />} />
      <Route path="/yes/:id" element={<OderItem />} />
      <Route path="/odered/:id" element={<OderList />} />
     </Routes>

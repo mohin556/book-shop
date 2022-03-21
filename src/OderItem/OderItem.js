@@ -83,9 +83,9 @@ const checkout=()=>{
   </thead>
   <tbody>
     <tr className='t-body' >
-      <td>Stuf You Should Know</td>
+      <td>TAX</td>
       <td>1</td>
-      <td> 125 </td>
+      <td> 0.00 </td>
       
     </tr>
     <tr>

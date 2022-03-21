@@ -11,9 +11,10 @@ const Navbar = () => {
          {/* <a href="/home"> Home  </a> */}
 
         
-         <a  href=""> Oders </a>
-         <a href="/form"> Admin </a>
-         <a href="/login"> Login </a>
+         <a  href="/lists"> Oders </a>
+         <a href="/add"> Add  </a>
+        
+         <a href="/admin"> Admin </a>
        
       
 

@@ -1,0 +1,24 @@
+.delet-list{
+    display: flex;
+}
+.delete-logo{
+    display: flex;
+    align-items: center;
+}
+.delet-list{
+    margin-right: 8px;
+    cursor: pointer;
+   
+}
+.delete-button{
+    background-color: white;
+    color: red;
+    border: 1px solid red;
+    border-radius: 5px;
+    
+    
+}
+.delete-icon{
+    color: gray;
+    cursor: pointer;
+}
